@@ -27,6 +27,8 @@ If you don't yet have a GitHub account, create one by following the instructions
 
 Within an hour, the preferred e-mail address you entered into the form will receive an e-mail with (1) the PDF containing your [Berkeley EECS Instructional Class Account](https://inst.eecs.berkeley.edu/connecting.html) information and (2) a link to your personal GitHub course repository. Accept the GitHub invitation to continue. **If you do not receive such an e-mail within an hour, double-check that you filled out the form correctly**.
 
+Befor you can see your reposity and submit assignments, you must join the Github "organization" `berkeley-cs186`. To accept an invite, you should get an email from GitHub. Note that this is to your Github email address, _not_ the email on the form you filled out. If you do not see an email from GitHub, you should see a notifcation when you visit the organization's [GitHub page](https://github.com/berkeley-cs186). If you see neither option, please check that your GitHub username was submitted correctly.
+
 # Submitting Assignments in CS 186
 
 All assignments in CS 186 will be submitted by turning code in through GitHub by pushing the relevant commit to a specific branch, unless we say otherwise.
